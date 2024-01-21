@@ -1,6 +1,8 @@
 # project
 
 A new Flutter project.
+Slicing UI Flutter from 
+https://www.figma.com/file/248kAbUBq718BQ6sFodfOb/BTJ-Academy---Mobile-Dev?type=design&node-id=0%3A1&mode=design&t=bwjJM7f54gBj1pB4-1
 
 ## Getting Started
 
